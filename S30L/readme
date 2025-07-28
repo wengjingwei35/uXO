@@ -1,0 +1,4 @@
+xyzFile: coordinates from S30L test set
+repaired.gjf: system information (charge, spin, bond order)
+unitfile: unit file defining mini-unit
+eggFile.R*: egg file defining fragmentation scheme (primitive fragments) at the selected cutoff radius
